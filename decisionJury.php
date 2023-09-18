@@ -71,6 +71,7 @@ switch($mention){
      <div class="alert <?=$couleur?>">
         <?=' <strong>Mention : </strong>' . $mention;?>
        <?=' </div>'?>
+       <button ><a href="http://localhost/dashboard/projet1PHP/determine_mention.php">Retour</a></button>
                        
 
     <!-- inclusion du js de bootstrap -->
